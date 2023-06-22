@@ -8,7 +8,7 @@
     Private Sub Form1_KeyDown(ByVal sender As Object, ByVal e As KeyEventArgs) Handles MyBase.KeyDown
         If e.KeyCode = Keys.Space Then
 
-            PictureBox1.Top -= 30
+            PictureBox1.Top -= 40
 
 
 
